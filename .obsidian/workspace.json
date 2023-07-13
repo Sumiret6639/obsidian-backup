@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "37a019e7825f11d2",
+        "id": "09ef5cb1d5616ca3",
         "type": "tabs",
         "children": [
           {
-            "id": "d4f85c56855914b8",
+            "id": "d14d9265261ea53e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -145,7 +145,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4f85c56855914b8",
+  "active": "d14d9265261ea53e",
   "lastOpenFiles": [
     "測試筆記01.md"
   ]
